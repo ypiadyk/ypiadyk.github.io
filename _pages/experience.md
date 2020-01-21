@@ -20,7 +20,7 @@ redirect_from:
   * <span style="font-weight:500">Designed a novel subsurface light scattering acquisition device</span>
 	- Based on custom light field camera
 	- Capable of measuring up to 3 mm of anisotropic subsurface scattering
-	- [Paper](/publication/bssrdf/) published at International Symposium on Electronic Imaging 2020 and patent filed
+	- [Paper](/publication/bssrdf) published at International Symposium on Electronic Imaging 2020 and patent filed
 
 ### Center for Urban Science + Progress ([CUSP](https://cusp.nyu.edu/)), NYU, New York, USA
 

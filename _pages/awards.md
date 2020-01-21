@@ -1,5 +1,5 @@
 ---
-permalink: /pages/awards
+permalink: /pages/awards/
 title: "Awards and Scholarships"
 excerpt: "Awards and Scholarships"
 author_profile: true

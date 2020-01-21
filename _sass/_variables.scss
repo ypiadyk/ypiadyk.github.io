@@ -90,7 +90,8 @@ $xing-color                 : #006567;
 
 
 /* links */
-$link-color                 : $info-color;
+//$link-color                 : $info-color;
+$link-color                 : $dark-gray;
 $link-color-hover           : mix(#000, $link-color, 25%);
 $link-color-visited         : mix(#fff, $link-color, 25%);
 $masthead-link-color        : $primary-color;
@@ -113,7 +114,7 @@ $x-large                    : 1800px;
 $small                      : 600px !default;
 $medium                     : 768px !default;
 $medium-wide                : 900px !default;
-$large                      : 925px !default;
+$large                      : 1025px !default;
 $x-large                    : 1280px !default;
 
 /*
